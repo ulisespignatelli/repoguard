@@ -1,0 +1,4 @@
+/repoguard
+/repoguard.exe
+/dist/
+*.sarif
